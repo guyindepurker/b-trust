@@ -1,0 +1,17 @@
+
+        @import "./src/styles/setup";
+        .card-title {
+                border-bottom: 1px solid $color-light-grey;
+                padding: 15px 20px;
+                .card-main-title{
+                        font-size: 18px;
+                        text-transform: capitalize;
+                        color:$color-black;
+
+                }
+                .new-content{
+                        color:$color-blue;
+                        cursor: pointer;
+                }
+        }
+

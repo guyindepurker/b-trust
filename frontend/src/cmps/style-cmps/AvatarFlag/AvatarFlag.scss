@@ -1,0 +1,9 @@
+@import "./src/styles/setup";
+
+.flag-image {
+        margin-right: 10px;
+
+        &.small {
+                width: 25px;
+        }
+}

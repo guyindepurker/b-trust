@@ -1,0 +1,12 @@
+@import "./src/styles/setup";
+
+.data-title {
+        margin-bottom: rem(30px);
+        color: $color-blue;
+        font-size: 15px;
+        text-transform: uppercase;
+        font-weight: 500;
+        i{
+                margin-left: 10px;
+        }
+}

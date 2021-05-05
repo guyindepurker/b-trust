@@ -1,0 +1,21 @@
+
+        @import "./src/styles/setup";
+        .business-name {
+                color:$color-blue;
+                padding: rem(30px);
+                @include borderBottom;
+                .icon-container{
+                        margin-right: rem(15px);
+                        width: rem(45px);
+                        height: rem(45px);
+                        background-color: $color-blue;
+                        color: $color-white;
+                        font-size: rem(20px);
+                        border-radius: 50px;
+                        padding: 10px;
+                }
+                .business-title{
+                        font-weight: 500;
+                        font-size: rem(25px);
+                }
+        }

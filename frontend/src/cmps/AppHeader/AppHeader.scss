@@ -1,0 +1,13 @@
+
+        @import "./src/styles/setup";
+        .app-header {
+                position: relative;
+                display: grid;
+                grid-template-columns: 30px 1fr 30px;
+                background-color: $color-white;
+                box-shadow: 0 0 14px 0px $color-black-shadow;
+                .header-container{
+                        grid-column: 2;
+                }
+                z-index: 99;
+        }

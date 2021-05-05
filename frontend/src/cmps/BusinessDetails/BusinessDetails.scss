@@ -1,0 +1,25 @@
+
+        @import "./src/styles/setup";
+        .business-details {
+                padding-top: 20px;
+                font-size: 14px;
+                font-weight: 500;
+                .item-details{
+                 margin-bottom: 25px;       
+                        .blue{
+                                color:$color-blue-light;
+                        }
+                .status{
+                        background-color:$color-green;
+                        padding: 3px 11px;
+                        border-radius: 10px;
+                        color: $color-white;
+                        margin-left: 5px;
+                }
+                .details-title{
+                        text-transform: capitalize;
+                        color:$color-grey;
+                        margin-right: 3px;
+                }
+        }
+        }

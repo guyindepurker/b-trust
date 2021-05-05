@@ -1,0 +1,109 @@
+{
+    "organization_data": {
+        "identification_data": {
+            "company_name": "Assicurazioni Generali SPA",
+            "lei_code": "BFXS5XCH7B0Y05NIXW11",
+            "vat_number": "BFXS5XCH7B0Y05NIXW11",
+            "company_email": "example@example.com",
+            "company_phone": "00-00-00000000",
+            "company_fax": "0000-00-000000"
+        },
+        "addresses": [{
+            "address": "Pizza Duca Degli Abruzzi",
+            "city": "Milano",
+            "province": "Mi",
+            "zip": "000000",
+            "country": "Italy",
+            "civic_number": "000000000000"
+        }],
+        "contact_information": [{
+
+            "full_name": "Diana Moss",
+            "position": "CFO",
+            "email": "diana.m@abnamaro.com",
+            "mobile_phone": "+ 000 00 111 1111",
+            "business_phone": "+ 000 00 111 1111",
+            "fax": "+ 000 00 111 1111"
+        }, {
+
+            "full_name": "Diana Moss",
+            "position": "CFO",
+            "email": "diana.m@abnamaro.com",
+            "mobile_phone": "+ 000 00 111 1111",
+            "business_phone": "+ 000 00 111 1111",
+            "fax": "+ 000 00 111 1111"
+        }, {
+
+            "full_name": "Diana Moss",
+            "position": "CFO",
+            "email": "diana.m@abnamaro.com",
+            "mobile_phone": "+ 000 00 111 1111",
+            "business_phone": "+ 000 00 111 1111",
+            "fax": "+ 000 00 111 1111"
+        }]
+
+    },
+    "client_data": {
+        "client_aml_data": {
+            "legal_nature": "SPA Societa Per Aziona",
+            "sae": "294 Insurance company",
+            "ateco": "111 Societa Per Aziona",
+            "place_conducting_economic_activity": "Italy,Mi",
+            "country_with_which_relevant_business_relationships": "Extra EU Italy",
+            "country_of_residence_oh_holding/parent_company": "EU"
+
+        },
+        "establishment_data": {
+            "est_date": "20/04/1834",
+            "est_location": "Italy,Trieste, MI",
+            "registration_in_the_chamber_of_commerce": "Yes",
+            "registration_number": "1235578889",
+            "name_of_register": "Michel Angleo",
+            "establishment_purposes": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro numquam fugit in quod corporis hic culpa neque est itaque"
+        },
+        "additional_client_data": {
+            "mifid_ii_classification": "Professional",
+            "fatca_status": "Financial Institution",
+            "ffi_environment": "Participating FFI(Final Regulations environment",
+            "gin_code": "985725 143361 55 900",
+            "emir_classification": "NFC+",
+            "emir_category": "3",
+            "client_category": "Group Companies",
+            "gdpr_privacy": "Yes",
+            "relationship_manger": "GIAM"
+        },
+        "risk_assessment": {
+            "risk_check_performed": true,
+            "risk_score": "low",
+            "note": "The collapse of the online-adverstinsing market in 2001 made marketing on the Internet seem even less compelling. Website usabillity,press releases,online media buys \n The collapse of the online-adverstinsing market in 2001 made marketing on the Internet seem even less compelling. Website usabillity,press releases,online media buys"
+        }
+    },
+    "broker_data": {
+        "assessments": {
+            "settlement_score": "4",
+            "trading_desk_score": "1",
+            "fitch_rating": "A+",
+            "moody׳s_rating": "F1",
+            "s&p_rating": "F1",
+            "mifid_scope": true,
+            "isda_in_place": true
+        },
+        "risk_assessment": {
+            "wc_adverse_events": true,
+            "wc_adverse_events_score": "medium",
+            "note": "The collapse of the online-adverstinsing market in 2001 made marketing on the Internet seem even less compelling. Website usabillity,press releases,online media buys \n The collapse of the online-adverstinsing market in 2001 made marketing on the Internet seem even less compelling. Website usabillity,press releases,online media buys"
+        },
+        "services": {
+            "otc_trading": true,
+            "custodian_banks_for_fx_spot": true,
+            "clearing_broker_for_etd/otc": false,
+            "executing_broker_for_listed_derivatives": true
+        },
+        "additional_broker_data": {
+            "onboarding_date": "22/03/2020",
+            "term_of_business": "22/03/2020",
+            "code": "1234"
+        }
+    }
+
+}

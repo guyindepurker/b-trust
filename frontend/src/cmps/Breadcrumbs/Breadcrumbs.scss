@@ -1,0 +1,15 @@
+
+        @import "./src/styles/setup";
+        .breadcrumbs {
+                padding: rem(15px) rem(30px);
+
+                @include borderBottom;
+                color: $color-grey;
+                font-size: 13px;
+                .current{
+                        color:$color-blue;
+                        i{
+                                margin: 0 7px;
+                        }
+                }
+        }

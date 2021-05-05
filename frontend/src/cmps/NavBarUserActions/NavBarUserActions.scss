@@ -1,0 +1,28 @@
+@import "./src/styles/setup";
+
+.nav-bar-user-actions {
+        >:not(:last-child) {
+                margin-right: 40px;
+        }
+        li{
+                cursor: pointer;
+        }
+        .drop-down{
+                .p-inputtext{
+                        font-size: 14px;
+                        padding-right:30px ;
+
+                        color: $color-blue;
+                }
+                border-radius: 10px;
+        }
+        i{
+                color: $color-black;
+                &.pi-bell{
+                        font-size: 20px;
+                }
+        }
+        .p-avatar-text{
+                font-size: 12px;
+        }
+}

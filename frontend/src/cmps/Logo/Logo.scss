@@ -1,0 +1,19 @@
+
+        @import "./src/styles/setup";
+        .logo {
+                // height: 100%;
+                margin-right: rem(70px);
+                .logo-img{
+                        margin-right: 5px;
+                        width: 45px;
+                        height: 40px;
+                        
+                }
+                .logo-txt{
+                        font-family: $font-secondary;
+                        font-size: rem(20px);
+                        font-weight: 500;
+                }
+             
+                
+        }

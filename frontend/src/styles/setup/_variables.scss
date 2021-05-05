@@ -1,0 +1,41 @@
+
+//COLORS-VARS-SASS:
+$color-white:#fff;
+$color-white-light:#F6F8FC;
+$color-white-light-2:#F3F5FA;
+$color-white-light-3:#FAFBFD;
+$color-blue:#0163D6;
+$color-blue-light:#0176FF;
+$color-black:#011124;
+$color-light-grey:#E5E7F0;
+$color-grey:#586176;
+$bg-site-color:#F6F8FC;
+$color-txt-primary:#3333;
+$color-black-shadow:#01112457;
+$color-black-shadow-2:#00000033;
+$color-black-shadow-3:#0000005c;
+$color-grey-dark:#9BA3B0;
+$color-green:#31C340;
+$color-red:#FB6263;
+
+
+// LAYOUT BREAKPOINTS
+$break-xs-mobile: 350px;
+$break-max-mobile: 380px;
+$break-mobile: 400px;
+$break-mobile-min: 450px;
+$break-min-narrow:500px;
+$break-max-narrow: 550px;
+$break-narrow: 750px;
+$break-mid-normal: 850px;
+$break-normal: 950px;
+$break-max-normal: 1050px;
+$break-wide: 1220px;
+
+//FONTS
+$font-secondary:'Rubik', sans-serif;
+$font-primary:'Roboto', sans-serif;
+
+//LAYOUT
+$grid-container-column:minmax(rem(30px),1fr) rem(350px) minmax(auto,$break-wide) minmax(rem(30px),1fr);
+$grid-layout-app-column:rem(375px) 1fr;
