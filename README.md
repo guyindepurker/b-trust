@@ -1,6 +1,6 @@
 
 ## B-Trust
-To see the deploy app [Click here to see the page](https://b-trust-guy.herokuapp.com/) or copy the next line to the url search:
+To see the final result [Click here to see the app](https://b-trust-guy.herokuapp.com/) or copy the next line to the url search:
 ```
 https://b-trust-guy.herokuapp.com/
 ```
